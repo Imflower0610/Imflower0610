@@ -61,11 +61,11 @@ I'm not good at it yet, but I'll study hard and
 
 <br><br><br>
 
-<div>
+<div align = center>
 
 ![Imflower0610's github stats](https://github-readme-stats.vercel.app/api?username=Imflower0610&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imflower0610&layout=compact)](https://github.com/Imflower0610/github-readme-stats) 
+
 
 </div>
 
@@ -77,6 +77,8 @@ I'm not good at it yet, but I'll study hard and
 **Imflower0610/Imflower0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imflower0610&layout=compact)](https://github.com/Imflower0610/github-readme-stats) 
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
